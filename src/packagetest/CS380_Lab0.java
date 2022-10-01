@@ -1,4 +1,4 @@
-//package packageTest;
+package packageTest;
 
 public class CS380_Lab0 {
 
